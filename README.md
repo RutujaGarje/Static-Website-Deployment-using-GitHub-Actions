@@ -49,7 +49,7 @@ Create HTML, CSS, and JavaScript files for the e-commerce website.
 
 Create a new repository on GitHub.
 
-**Repository URL:**
+**Repository URL: https://github.com/RutujaGarje/Static-Website-Deployment-using-GitHub-Actions**
 
 ---
 
