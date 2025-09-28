@@ -143,7 +143,7 @@ jobs:
 
 Your static website is live and automatically updated with every push to `main`.
 
-![Live Website](img/Live%20Website.png)
+
 
 ## 🧾 Conclusion
 
