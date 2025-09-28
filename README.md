@@ -6,6 +6,8 @@ In today’s fast-paced development world, automation is key to rapid deployment
 
 By the end of this tutorial, you’ll have a live static website that automatically updates with every push to your GitHub repository.
 
+(View Live Link)https://rutujagarje.github.io/Static-Website-Deployment-using-GitHub-Actions/
+
 ---
 
 **Technologies Used:**
